@@ -42,7 +42,7 @@ In a team-specific channel, make a post nominating a person to join the team wit
 
 If the vote passes by a super majority (> 75%), the person that nominated the new person (or the person that will be extending the invitation to join the team) should make note of any concerns and encouraging comments shared in threads in the team-specific channel AND in #staff-interest-submissions to share with the new staff member.
 
-As an example to share this type of information, "We are excited to invite you to be a member of the \_\_\_ team. You deserve to be a part of this team and everyone is onboard with it. Here is what the job entails. Here are the things that we like and think that you bring to the table. Here are some of our concerns that we want you to be aware of. Welcome to the team!"
+As an example to share this type of information, "We are excited to invite you to be a member of the \_\_\_ team. You deserve to be a part of this team and everyone is onboard with it. Here is what the role entails. Here are the things that we like and think that you bring to the table. Here are some of our concerns that we want you to be aware of. Welcome to the team!"
 
 **Before giving the role to the new staff member, these threads should be deleted.**
 
